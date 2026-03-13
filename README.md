@@ -26,7 +26,7 @@ Você precisará de um navegador web moderno (como Google Chrome, Mozilla Firefo
 
 1. **Clone o repositório:**
    ```bash
-   git clone Colocar o link do projeto aqui 
+   git clone https://github.com/LucasFerreiraProgramador/tela-login
    ```
 2. **Navegue até o diretório do projeto:**
    ```bash
@@ -53,6 +53,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 Lucas Ferreira - [https://www.linkedin.com/in/lucasferreira-dev-front-end/](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 
-Deploy do Projeto: 
+Deploy do Projeto: [https://lucasferreiraprogramador.github.io/tela-login/](https://lucasferreiraprogramador.github.io/tela-login/)
 
 

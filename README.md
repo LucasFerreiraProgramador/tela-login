@@ -45,14 +45,15 @@ Contribuições, sugestões e *issues* são sempre bem-vindas! Se você tiver id
 4. Enviar para a *branch* (`git push origin feature/AmazingFeature`).
 5. Abrir um *Pull Request*.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## 📧 Contato
-
-Lucas Ferreira - [https://www.linkedin.com/in/lucasferreira-dev-front-end/](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
-
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 Deploy do Projeto: [https://lucasferreiraprogramador.github.io/tela-login/](https://lucasferreiraprogramador.github.io/tela-login/)
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Front-End.
+
+
 
 

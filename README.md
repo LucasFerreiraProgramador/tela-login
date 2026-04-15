@@ -10,7 +10,7 @@ Este repositório apresenta uma tela de login moderna e responsiva, desenvolvida
 - **Estilização Moderna:** Utiliza CSS para um visual atraente e profissional.
 
 ## 🛠️ Tecnologias Utilizadas
-
+                      
 - **HTML5:** Para a estrutura semântica da página.
 - **CSS3:** Para a estilização, incluindo Flexbox/Grid para o layout responsivo.
 

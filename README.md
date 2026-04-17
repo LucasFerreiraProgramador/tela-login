@@ -36,7 +36,7 @@ Você precisará de um navegador web moderno (como Google Chrome, Mozilla Firefo
    Você pode fazer isso clicando duas vezes no arquivo `index.html` ou arrastando-o para a janela do seu navegador.
 
 ## 🤝 Contribuição
-
+    
 Contribuições, sugestões e *issues* são sempre bem-vindas! Se você tiver ideias para melhorar este projeto, sinta-se à vontade para:
 
 1. Bifurcar (*fork*) o repositório.
